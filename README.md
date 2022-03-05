@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jessica
+- 👀 I’m interested in Katalon Automation
+- 🌱 I’m currently learning Selenium and cucumber. 
+- 💞️ I’m looking to collaborate on Katalon Automation 
+- 📫 How to reach me 09153768517 via viber
